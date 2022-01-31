@@ -9,3 +9,13 @@
     background-color: red;
 }
 
+.ex-2-square {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    transition: 3s;
+}
+
+.ex-2-square:active {
+    width: 100%;
+}
