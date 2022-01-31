@@ -41,3 +41,23 @@
 .ex-4-square:hover {
     background-color: transparent;
 }
+
+.ex-5-square {
+    background-color: red;
+    height: 60px;
+    width: 60px;
+    transition: .5s;
+    margin: 20px;
+}
+
+.ex-5-square:hover {
+    margin: 0;
+    height: 100px;
+    width: 100px;
+}
+
+.ex-5-square:active {
+    height: 40px;
+    width: 40px;
+    margin: 30px;
+}
