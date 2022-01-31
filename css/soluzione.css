@@ -61,3 +61,11 @@
     width: 40px;
     margin: 30px;
 }
+
+.ex-6-img {
+    width: 45%;
+}
+
+.ex-6-img:hover {
+    filter: grayscale(100%);
+}
